@@ -6,6 +6,8 @@
 
 **Storelike AIKit is an open-source toolkit for freelancers, solo entrepreneurs, and small businesses to run their own AI-powered online store — no developer required.**
 
+🌐 **Website:** [storelike.ru](https://storelike.ru/) — Storelike, AI office in your pocket for business · [Blog](https://storelike.ru/blog/) · [Products](https://storelike.ru/products/)
+
 Every template and skill in this repo grows out of real entrepreneurs sharing how they actually use AI to run their business day to day. As more entrepreneurs share their skills, the toolkit gets smarter for everyone — in every market, in every country. That community feedback loop is the whole point of the project.
 
 **Maximum performance, minimalist design. AI-editable via config files.**
